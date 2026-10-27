@@ -1,6 +1,6 @@
 # Shape Studio: Starter Project
 
-Shape Studio is a small drawing app. You drag circles, squares and rectangles onto a canvas, move them around, and save your design so you can look at it later.
+Shape Studio is a drawing app. You drag circles, squares and rectangles onto a canvas, move them around, and save your design so you can look at it later.
 
 **What already works:** the drag-and-drop canvas.
 **Your job:** add **navigation** (bottom tabs + a stack) and **storage** (AsyncStorage) so designs can be saved, listed and opened.
